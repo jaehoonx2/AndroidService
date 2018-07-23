@@ -1,5 +1,5 @@
 # AndroidService
-Sample code of bound service and unbound service.
+Sample code of bounded service(= service binding) and unbounded service.
 
 
 # Getting Started
